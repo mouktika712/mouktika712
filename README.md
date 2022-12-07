@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Mouktika Namde
 - 👀 I’m interested in ... Full Stack Web Development
 - 🌱 I’m currently learning ... React JS
-- 📫 How to reach me at...mouktikanamde712@gmail.com
+- 📫 How to reach me at... mouktikanamde712@gmail.com
